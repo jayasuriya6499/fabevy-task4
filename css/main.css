@@ -1,0 +1,42 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+    /*------ main container style start -------*/
+.container{
+	width:1300px;
+	margin:0 auto;	
+}
+    /*------ main container style end -------*/ 
+  
+         /*---- banner-details style start -----*/  
+.banner-details{
+	display:flex;
+}
+.banner-1{
+    width: 25%;
+	padding: 0 15px;
+}
+.banner-text{
+	border: 1px solid #fff;
+	background-color:#fff;
+	padding:30px 20px;
+	box-shadow: 0px 0 10px #ccc;
+	margin-top:60px;
+}
+
+.banner-text i{
+	color:#1F51FF;
+	font-size:36px;
+}
+.banner-text h1{
+	padding-top:17px;
+}
+.banner-text p{
+	color:#85929E;
+	padding:20px 0 0 0;
+    line-height: 1.5;	
+}
+ 
+    /*---- banner-details style end -----*/

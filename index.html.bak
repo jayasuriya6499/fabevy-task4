@@ -1,0 +1,58 @@
+<!doctype html>
+<html>
+<head>
+      <title> Task-4 Lorem Ipsum </title>
+	          <!----- meta link ------->
+	  <meta charset="UTF-8">
+	  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	          <!----- favicon link --------->
+	  <link rel="icon" href="images/1.jpg">
+	          <!----- icofont link --------->
+	  <link rel="stylesheet" href="icons/icofont.min.css">
+	          <!----- css link --------->
+	  <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+              <!--------- main container start --------------->
+    <div class="container">
+	               <!------- banner-details start -------->
+	    <section class="banner-details">
+		
+		   <div class="banner-1">
+				<div class="banner-text">
+					<i class="icofont-eye-open"></i>
+				   <h1> Lorem Ipsum </h1>
+				   <p>  Contrary to popular belief, Lorem Ipsum is not simply over 2000 years old. Richard McClintocn. 	</p>
+				</div>
+		       
+		   </div>
+		   
+		   <div class="banner-1">
+			   <div class="banner-text">
+				   <i class="icofont-linux-mint"></i>
+				   <h1> Sed ut perspiciatis </h1>
+				   <p> Contrary to popular belief, Lorem Ipsum is not simply over 2000 years old. Richard McClintocn. </p>
+				</div>
+		  </div>
+		   
+		   <div class="banner-1">
+			   <div class="banner-text">
+				   <i class="icofont-papers"></i>
+				   <h1> Magni Doloris</h1>
+				   <p> Contrary to popular belief, Lorem Ipsum is not simply over 2000 years old. Richard McClintocn. </p>
+			   </div>
+		   </div>
+		   
+		   <div class="banner-1">
+			   <div class="banner-text">
+				   <i class="icofont-eye-blocked"></i>
+				   <h1> Nemo Enum </h1>
+				   <p> Contrary to popular belief, Lorem Ipsum is not simply over 2000 years old. Richard McClintocn. </p>
+			   </div>
+		   </div>
+		</section>
+		                 <!-------  banner-details end -------->
+	</div>
+	             <!----------- main container end ------------------>
+</body>
+</html>
